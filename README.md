@@ -2,7 +2,8 @@
 
 # 💫About me:
 🔭 I’m currently working on:
-Improving web and mobile applications by utilizing efficient, scalable technologies and best practices for better performance
+Improving web and mobile applications by utilizing efficient, scalable technologies and best practices for better performance.
+Mastering Data Structures and Algorithms (DSA) with a focus on Java to enhance problem-solving skills and optimize application performance.
 
 👯 I’m looking to collaborate on:
 Fullstack projects
